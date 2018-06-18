@@ -1,0 +1,29 @@
+Command line:
+   Crodeators_top_testbench3_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  40629
+
+Wed Apr  6 20:26:12 2016
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 196.981 Meg
+
+ Total Signals          : 50
+ Total Nets             : 209
+ Total Signal Drivers   : 41
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 22
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 588
+Total Line Count : 319
+
+ Total Simulation Time: 7.45 sec
+
+ Current Memory Usage: 272.482 Meg
+
+Wed Apr  6 20:28:51 2016
+

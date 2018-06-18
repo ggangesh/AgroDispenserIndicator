@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home1/ISEProjects/FinalProjects/Crodeators_top_testbench2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="crodeators_top_testbench2" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/crodeators_top_testbench2/currentareanumber" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">currentareanumber[2:0]</obj_property>
+      <obj_property name="ObjectShortName">currentareanumber[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/croptype" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">croptype[2:0]</obj_property>
+      <obj_property name="ObjectShortName">croptype[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/height" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">height[2:0]</obj_property>
+      <obj_property name="ObjectShortName">height[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/health" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">health</obj_property>
+      <obj_property name="ObjectShortName">health</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/humidity" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">humidity[7:0]</obj_property>
+      <obj_property name="ObjectShortName">humidity[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/cut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cut[1:0]</obj_property>
+      <obj_property name="ObjectShortName">cut[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/water" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">water[7:0]</obj_property>
+      <obj_property name="ObjectShortName">water[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/dispense" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">dispense</obj_property>
+      <obj_property name="ObjectShortName">dispense</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/tillsoil" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tillsoil</obj_property>
+      <obj_property name="ObjectShortName">tillsoil</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/busy" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/s1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/water1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">water1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">water1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/bi" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">bi[4:0]</obj_property>
+      <obj_property name="ObjectShortName">bi[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/ci" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ci[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ci[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/days" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">days</obj_property>
+      <obj_property name="ObjectShortName">days</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/seconds" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">seconds[2:0]</obj_property>
+      <obj_property name="ObjectShortName">seconds[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/bcmswitch" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">bcmswitch[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bcmswitch[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/crodeators_top_testbench2/uut/dcmswitch" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dcmswitch[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dcmswitch[7:0]</obj_property>
+   </wvobject>
+</wave_config>

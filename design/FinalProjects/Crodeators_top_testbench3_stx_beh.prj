@@ -1,0 +1,2 @@
+vhdl isim_temp "Crodeators_top.vhd"
+vhdl isim_temp "Crodeators_top_testbench3.vhd"

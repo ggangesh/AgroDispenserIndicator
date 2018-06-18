@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home1/ISEProjects/FinalProjects/Crodeators_top_testbench3_isim_beh.exe" -prj "/home1/ISEProjects/FinalProjects/Crodeators_top_testbench3_beh.prj" "work.Crodeators_top_testbench3" 
